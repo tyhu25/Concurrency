@@ -1,3 +1,4 @@
+// std::promise and std::future which are used to return values from functions running in threads.
 #include <future>
 #include <iostream>
 #include <string>

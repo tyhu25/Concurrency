@@ -1,3 +1,4 @@
+// A C++ producer consumer example using std::mutex + std::condition_variable.
 #include <chrono>
 #include <condition_variable>
 #include <iostream>

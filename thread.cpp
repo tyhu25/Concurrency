@@ -1,3 +1,10 @@
+// Basic C++ std::thread example
+// 1: function with value input.
+// 2: function with reference input.
+// 3: member function with value input.
+// 4: member function with reference input.
+// 5: functor.
+// 6: lambada.
 #include <iostream>
 #include <sstream>
 #include <thread>

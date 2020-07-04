@@ -1,3 +1,5 @@
+// Implements a semaphore class using std::mutex and std::condition_variable.
+// Implements a producer consumer example based on implemented semaphore class.
 #include <chrono>
 #include <condition_variable>
 #include <iostream>
