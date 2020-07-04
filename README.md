@@ -24,3 +24,9 @@ Implements a semaphore class using std::mutex and std::condition_variable.
 
 ## shared_mutex.cpp
 A reader writer sample using std::shared_timed_mutex.
+
+## reader_writer.cpp
+Implement a reader writer lock using std::mutex and std::condition_variable.
+
+# philosopher.cpp
+Implement a solution to Dinning Philosophers problem.
